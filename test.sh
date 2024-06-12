@@ -1,5 +1,4 @@
-date >> /home/workspace/garden/grass.txt
+date >> /home/hyunsuk/garden/grass.txt
 git add .
-git commit -m "ang"
+git commit -m "test"
 git push
-
